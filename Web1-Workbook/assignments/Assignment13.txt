@@ -1,0 +1,12 @@
+What is the difference between ID's, Classes and Tags?
+
+    ID's identify a specific element on a page
+    Class can be assigned to multiple elements so u can change appearance of multiple elements with on CSS styling directive
+    HTML tag indicates HTML element we want to render on a page
+
+
+How does Specificity play a role in the selection of HTML elements
+(both in CSS and JS) ?
+
+    We specify styles starting from top down - so as example, we give EVERY HTML DIV tag overflow attribute
+    and then specifically override that attribute for for a DIV that is further down in the page hierarchy
