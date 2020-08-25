@@ -1,0 +1,7 @@
+What is considered the right size for an image or video asset?
+
+The right size is a compromise beetween legibility/clarity and speed of rendering of the image
+Legibility implies that we want to render image with as much detail and color depth as possible
+Speed implies we want the image to be smallest size possible ( that is where formats come in SVG vs PNG etc.)
+and to still clearly display it on screen.  Vector images are small size but take time to render, .pngs
+take time to download but render faster.

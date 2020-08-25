@@ -1,0 +1,7 @@
+Function vs Form: When are webimages considered part of the content (HTML) as opposed to part of the appearance (CSS)?
+
+Webimages would be considered part of HTML when they are actionable - i.e. u need to click on an image as if it
+was a button, or sections of an image are used as clickable regions
+
+In CSS images are used as solid color would be used - to fill in a region with specific design or in the case of 
+animation CSS to show a certain effect on the screen.

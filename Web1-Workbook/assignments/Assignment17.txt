@@ -1,0 +1,4 @@
+## What is a package manager
+
+Allows developers to access libraries used to add functionality to custom software
+NPM is pkg manager to install thir-party libraries

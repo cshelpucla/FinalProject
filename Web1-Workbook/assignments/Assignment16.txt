@@ -1,0 +1,10 @@
+Web Hosts: 
+companies that host the website to be accessed by the users
+
+Domains:
+Domain name is the address of your website that people type in the browser URL bar to visit your website.
+In simple terms, if your website was a house, then your domain name will be its address.
+.net, .com, .edu - examples of domain suffixes that segregate sites into larger groupings
+
+FTP:
+Protocol used to download files from other locations on Internet

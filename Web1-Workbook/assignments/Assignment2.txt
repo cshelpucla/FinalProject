@@ -1,0 +1,6 @@
+Final project: I will build a questionaire builder 
+Essay: Explain the difference between HTML, CSS and JS
+
+HTML describes structure of the page and relationship of elements to one another
+CSS controls how elements will appear on the page
+JS implements logic for elements too interact with the user and each other
