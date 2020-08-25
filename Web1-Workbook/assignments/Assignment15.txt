@@ -1,0 +1,24 @@
+What is a CSS Preprocessor? 
+
+This a component of Javascript environment that translates CSS into plain HTML that can be served out to browser
+
+What are some examples?
+
+background-color: maroon;
+    color: white;
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+
+In React,what are styled components?
+
+Styled-components utilises tagged template literals to style your components. 
+It removes the mapping between components and styles. 
+This means that when you're defining your styles, you're actually creating a normal React component, 
+that has your styles attached to it.
+
+How do Styled Components violate separation of concerns?
+
+Styled componets actually create React components therefore mixing styling ( which is display info ) with
+HTML whic  is structural info

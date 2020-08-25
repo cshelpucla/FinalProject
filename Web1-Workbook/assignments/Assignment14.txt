@@ -1,0 +1,3 @@
+Why is Web Accessibility important?
+
+Web Accessibility supports access by hearing and visially impaired users to our sites and applications
